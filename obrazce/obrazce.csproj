@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ikreslenie.cs" />
+    <Compile Include="Izmenrozmer.cs" />
     <Compile Include="kruh.cs" />
     <Compile Include="obrazec.cs" />
     <Compile Include="Program.cs" />
